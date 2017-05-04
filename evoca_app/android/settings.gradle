@@ -1,0 +1,3 @@
+rootProject.name = 'evoca_app'
+
+include ':app'
